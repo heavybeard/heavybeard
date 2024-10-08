@@ -1,6 +1,6 @@
 # I'm heavybeard
 
-I'm currently working at [Nibol](https://nibol.com/) as Software Developer.
+I'm currently working at [Serenis](https://serenis.it/) as Software Developer.
 
 Check my professional story on [Linkedin](https://www.linkedin.com/in/andreacognini/)
 
